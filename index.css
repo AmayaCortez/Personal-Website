@@ -1,4 +1,44 @@
 header{
-margin: 50px;
+margin: 30px;
 padding: 10px;
+background-color: rgb(128, 130, 155);
+color: rgb(255, 253, 253);
+font-size:larger;
+text-align: center;
+border: solid;
+border-radius: 10px;
+}
+
+body{
+  background-color: rgb(128, 130, 155)
+}
+
+h2{
+  margin: 30px;
+  padding-left: 5px;
+  background-color: rgb(128, 130, 155);
+  color: rgb(255, 253, 253);
+  font-size: xx-large;
+
+}
+a{
+  color: rgb(255, 253, 253);
+  margin: 30px;
+  padding: 10px;
+  font-size: larger;
+  border: solid;
+  border-radius: 10px;
+}
+h3{
+  margin: 30px;
+  padding: 10px;
+  background-color: rgb(128, 130, 155);
+  color: rgb(255, 253, 253);
+  font-size: xx-large;
+}
+div{
+  padding: 10px;
+  background-color: rgb(128, 130, 155);
+  border: solid;
+  border-color: rgb(255, 253, 253);
 }
